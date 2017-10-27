@@ -112,7 +112,7 @@ encrypt:
                         {{content}}
                     </div>
 live2d:
-  model: wanko
+  model: hijiki
   bottom: -30
 flowchart:
   # raphael:   # optional, the source url of raphael.js
@@ -128,9 +128,3 @@ markdown_it_plus:
     typographer:
     quotes: “”‘’
     pre_class: highlight 
-algolia:
-  appId: 'HSPAJ59CL3'
-  apiKey: 'f357e9cbcd0dd568580922ed81dce6f3'
-  adminApiKey: '24647f58dae48cd6e61f7fbc90ff287e'
-  indexName: 'qcsunny'
-  chunkSize: 5000
